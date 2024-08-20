@@ -1,2 +1,2 @@
-# prosail_withR
-Conversion of prosail to R language
+# Conversion of prosail from matlab to R language
+Description to come.
